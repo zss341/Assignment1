@@ -1,0 +1,128 @@
+﻿  Fountain.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(20,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(51,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(55,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(81,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(82,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(84,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(86,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(88,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(90,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(92,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Fountain.cpp(94,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+  DisplayList.cpp
+  Material.cpp
+  MtlLibrary.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(227,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(607,43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(666,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(711,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(752,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(820,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(840,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(869,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(891,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(929,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(956,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(1038,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibrary.cpp(1065,61): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MtlLibraryManager.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibraryManager.cpp(44,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\MtlLibraryManager.cpp(233,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ObjModel.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(251,37): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(355,27): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(389,38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(415,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(448,25): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(483,45): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(491,68): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(507,44): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(515,66): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(552,40): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(560,58): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(659,44): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(668,43): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(677,42): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(686,38): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(734,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2347,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2363,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2380,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2401,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2413,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2427,56): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2443,79): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2460,55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2476,77): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2502,51): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2518,69): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2553,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2567,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2598,69): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2636,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2677,67): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2715,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2757,43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2796,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2872,90): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2901,88): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(2943,80): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(4076,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(4128,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjModel.cpp(4207,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ObjStringParsing.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjStringParsing.cpp(91,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjStringParsing.cpp(109,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjStringParsing.cpp(130,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjStringParsing.cpp(131,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjStringParsing.cpp(152,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\ObjStringParsing.cpp(153,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  SpriteFont.cpp
+  Texture.cpp
+  TextureBmp.cpp
+  TextureManager.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\TextureManager.cpp(132,28): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\ObjLibrary\TextureManager.cpp(277,50): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Vector2.cpp
+  Vector3.cpp
+  Sleep.cpp
+  Sparkle.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(14,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(32,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(55,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(56,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(60,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(61,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(65,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(66,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(70,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Sparkle.cpp(71,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Square.cpp
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(33,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(34,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(46,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(83,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(84,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(86,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(88,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(90,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(92,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(94,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\Square.cpp(96,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl initDisplay(void)" (?initDisplay@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\miche\source\repos\AssIgn1\CS408Assignment1\x64\Debug\CS408Assignment1.exe : fatal error LNK1120: 12 unresolved externals
